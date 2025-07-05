@@ -47,3 +47,4 @@ go.work
 
 bitwarden-otp-extractor
 *.json
+release
