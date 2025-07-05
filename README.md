@@ -1,0 +1,3 @@
+# Bitwarden OTP Extractor
+
+This project aims to convert Bitwarden's export json to other OTP application import formats like Aegis, etc...
